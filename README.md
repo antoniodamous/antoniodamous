@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eu sou o <a href="https://antoniodamous.github.io/portfolio/">Antônio!</a> 👋</h1>
+<h1 align="center">Olá, Eu sou o <a href="https://antoniodamous.github.io/portfolio/">Antônio Damous!</a> 👋</h1>
 <h3 align="center">Aprendendo, Desaprendendo e Reaprendendo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniodamous&label=Profile%20views&color=0e75b6&style=flat" alt="antoniodamous" /> </p>
